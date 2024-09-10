@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en-US" class="twbb">
 <head>
@@ -1247,4 +1246,3 @@ var TWBBFrontendConfig = {"facebook_sdk":{"lang":"en_US","app_id":""}};
 <script type="text/javascript" src="https://10web-site.ai/104/wp-content/plugins/tenweb-builder/assets/frontend/js/custom_options_frontend.min.js?ver=1.21.14" id="twbb-custom-options-frontend-scripts-js"></script>
 </body>
 </html>
-readme
